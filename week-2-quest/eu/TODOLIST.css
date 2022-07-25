@@ -1,0 +1,87 @@
+html{
+    background-color: #E3E2B4;
+}
+header{
+    padding-top: 15px;
+    text-align: center;
+}
+
+#header{
+    font-size: 30px;
+    margin: 40px;
+    text-align: center;
+    
+}
+.input{
+    text-align: center;
+    margin-bottom:10px;
+}
+
+#input{
+    width: 600px;
+    height: 30px;
+    border-color: darkkhaki;
+}
+
+#list{
+    width: 550px;
+}
+li{
+    width: px;
+    list-style: none;
+}
+
+.enter{
+    height: 36px;
+    width:60px;
+    background-color: white;
+    border:2px solid darkkhaki ;
+    border-radius: 5px;
+    color:darkkhaki;
+}
+.todolist{
+    margin-bottom: 10px;
+    margin: auto;
+    width: 600px;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.edit{
+    height: 30px;
+    background-color:white;
+    border:2px solid darkkhaki ;
+    border-radius: 3px;
+    color:darkkhaki;
+    margin-right: 5px;
+
+}
+.save{
+    height: 30px;
+    background-color:white;
+    border:2px solid darkkhaki;
+    border-radius: 3px;
+    color:darkkhaki;
+    margin-right: 5px;
+}
+.button{
+    margin-left: 550px;
+}
+
+.button button{
+    height: 30px;
+    background-color:white;
+    border:none;
+    border-radius: 3px;
+    color:darkkhaki;
+    margin-right: 5px;
+}
+.add{
+    border: none;
+    width:330px;
+    padding-top: 70px;
+    padding: 20px;
+    list-style: none;
+}
